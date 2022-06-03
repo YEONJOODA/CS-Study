@@ -1,0 +1,15 @@
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.csproj.AssemblyReference.cache
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.AssemblyInfoInputs.cache
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.AssemblyInfo.cs
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.csproj.CoreCompileInputs.cache
+C:\Users\1302\Desktop\study\Backjoon\bin\Debug\net6.0\Backjoon.exe
+C:\Users\1302\Desktop\study\Backjoon\bin\Debug\net6.0\Backjoon.deps.json
+C:\Users\1302\Desktop\study\Backjoon\bin\Debug\net6.0\Backjoon.runtimeconfig.json
+C:\Users\1302\Desktop\study\Backjoon\bin\Debug\net6.0\Backjoon.dll
+C:\Users\1302\Desktop\study\Backjoon\bin\Debug\net6.0\Backjoon.pdb
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.dll
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\refint\Backjoon.dll
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.pdb
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\Backjoon.genruntimeconfig.cache
+C:\Users\1302\Desktop\study\Backjoon\obj\Debug\net6.0\ref\Backjoon.dll
