@@ -15,7 +15,7 @@ namespace Ch03
 {
     internal class _2_Switch
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("점수 입력 : ");
             string strScore = Console.ReadLine();
