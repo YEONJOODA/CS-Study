@@ -7,12 +7,19 @@ using System.Threading.Tasks;
  * 날짜 : 2022/06/07
  * 이름 : 김연주
  * 내용 : 메서드 출력전용 매개변수
+ * 
+ * 출력 매개변수 ref
+ * - 변수의 reference(주소)값으로 참조값이 가리키는 실제변수에 값을 대입하는 매개변수
+ * 
+ * 출력 매개변수 out
+ * - 별도의 변수선언 없이 바로 메서드 호출시 메서드의 결과를 리턴받는 매개변수
+ * - 메서드는 하나의 리턴값을 여러개 값을 리턴할 수 있는 효과를 얻는다.
  */
 namespace Ch04
 {
     internal class _5_MethodParamater
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             // ref 매개변수
             int num1 = 10;
