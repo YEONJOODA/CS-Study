@@ -17,7 +17,7 @@ namespace Ch06
 {
     internal class _1_AbstractClass
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             // 추상클래스는 객체생성 안됨
             //Car car = new Car();
