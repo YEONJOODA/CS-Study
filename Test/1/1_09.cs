@@ -8,8 +8,8 @@ namespace Test._1
 {
     internal class _1_09
     {
-        static void Main1(string[] args)
-        {
+		static void Main1(string[] args)
+		{
 			int count = 0;
 
 			for (int i = 1; i <= 9; i++)
@@ -30,5 +30,6 @@ namespace Test._1
 				}
 				Console.WriteLine();
 			}
+		}
     }
 }
