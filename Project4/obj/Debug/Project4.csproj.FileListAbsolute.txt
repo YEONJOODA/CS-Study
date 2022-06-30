@@ -1,0 +1,11 @@
+C:\Users\1302\Desktop\study\Project4\bin\Debug\Project4.exe.config
+C:\Users\1302\Desktop\study\Project4\bin\Debug\Project4.exe
+C:\Users\1302\Desktop\study\Project4\bin\Debug\Project4.pdb
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.csproj.AssemblyReference.cache
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.csproj.SuggestedBindingRedirects.cache
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.Form1.resources
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.csproj.GenerateResource.cache
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.exe
+C:\Users\1302\Desktop\study\Project4\obj\Debug\Project4.pdb
