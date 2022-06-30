@@ -11,7 +11,7 @@ namespace Test.총정리
 
     internal class _1_09
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("커피 가격표");
 
