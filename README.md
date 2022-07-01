@@ -34,15 +34,15 @@
     - 데이터베이스와 SQL
 ## Project3.오목
 ![Project3](./Project3/Project3.png)
-1.프로젝트 유형
+1. 프로젝트 유형
     - WinForm 프로젝트
-2.활용기술
+2. 활용기술
     - 윈도우 그래픽
     - 이벤트와 핸들러
 ## Project4.벽돌깨기
 ![Project4](./Project4/Project4.png)
-1.프로젝트 유형
+1. 프로젝트 유형
     - WinForm 프로젝트
-2.활용기술
+2. 활용기술
     - 윈도우 그래픽
     - Timer와 핸들러
